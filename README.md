@@ -91,6 +91,8 @@ A clean, professional control dashboard and interactive curriculum guide for bui
         │  (Linux/Debian)                (Windows Lab) │      │
         └──────────────────────────────────────────────┴──────┘
 ```
+## Home page
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/9aa7d740-41e0-4e2e-87fe-9ad0b0d1bff4" />
 
 ---
 
