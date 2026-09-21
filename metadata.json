@@ -1,0 +1,6 @@
+{
+  "name": "pfSense Lab on Proxmox VE",
+  "description": "A clean, professional control dashboard and interactive guide for building and operating a pfSense firewall lab on Proxmox VE with API control and automated preflight validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
